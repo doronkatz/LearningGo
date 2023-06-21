@@ -1,6 +1,6 @@
 # LearningGo
 
-[![Platform](https://img.shields.io/badge/platform-go-lightgrey.svg?style=flat)
+![Platform](https://img.shields.io/badge/platform-go-lightgrey.svg?style=flat)
 [![Twitter](https://img.shields.io/badge/twitter-@doronkatz-00ACED.svg?style=flat)](http://twitter.com/doronkatz)
 
 
